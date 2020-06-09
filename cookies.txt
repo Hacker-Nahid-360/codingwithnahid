@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.google.com	TRUE	/	FALSE	1999999999	NID	204=BDTPF7HM6g2a5d1Z8AGWso89mVubi9vveT9M1kXNxw_U-6U5yeretn-m3c9FUo2_f7vS2JyX_VUddMJOxfQL2kGZM_uEzCzWD9PCIGAujGM51kKWwHBxB5QIq36PhW86aXXz3lkVRYen_MqD2DC5_rCwvAaO5rqMXi2zL5-VWy8
+codewithharry.com	TRUE	/	FALSE	1999999999	csrftoken	Fgn4yOVdSqBqoqAuxG49ILwS88V61PE7uFpxLf6WDIuEYsoiJjQynjNTt2qwUnRw
+codewithharry.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
